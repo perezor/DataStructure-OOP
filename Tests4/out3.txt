@@ -1,0 +1,67 @@
+========== 1. Print Menu ==========
+1 Green Salad Price: 21
+2 Tomato Salad Price: 24
+3 Hummus Price: 23
+4 Chicken Breast Price: 52
+5 Dennis Price: 79
+6 Hamburger Price: 57
+7 Salmon Price: 54
+8 Kebab Price: 37
+9 Fish Patties Price: 21
+10 Tomato Salad Price: 24
+11 Potatoes Price: 16
+12 French Fries Price: 16
+13 Small Rice Price: 9
+14 Big Rice Price: 14
+15 Small Mashed Potatoes Price: 10
+16 Big Mashed Potatoes Price: 37
+17 Kadaif Price: 32
+18 Mouse Price: 22
+19 Cola Price: 10
+20 Orange Juice Price: 10
+21 Apple Juice Price: 10
+22 Beer Price: 17
+========== 2. Print Report ==========
+Total price: 0
+========== 3. Print ChefsQue ==========
+2 Tomato Salad Price: 24 Table: 3 Not Served: 2
+8 Kebab Price: 37 Table: 3 Not Served: 1
+12 French Fries Price: 16 Table: 3 Not Served: 1
+6 Hamburger Price: 57 Table: 3 Not Served: 1
+19 Cola Price: 10 Table: 3 Not Served: 2
+22 Beer Price: 17 Table: 5 Not Served: 1
+9 Fish Patties Price: 21 Table: 5 Not Served: 1
+7 Salmon Price: 54 Table: 5 Not Served: 3
+9 Fish Patties Price: 21 Table: 5 Not Served: 1
+========== 4. Print Check Table 5 ==========
+7 Salmon Price: 54 Table: 5 Served: 3 Total: 162
+9 Fish Patties Price: 21 Table: 5 Served: 1 Total: 21
+Total: 183
+========== 5. Print Check Table 3 ==========
+2 Tomato Salad Price: 24 Table: 3 Served: 2 Total: 48
+12 French Fries Price: 16 Table: 3 Served: 1 Total: 16
+Total: 64
+========== 6. Print Report ==========
+2 Tomato Salad Price: 24 Table: 3 Served: 2 Total: 48 Not Served: 0
+6 Hamburger Price: 57 Table: 3 Served: 0 Total: 0 Not Served: 1
+7 Salmon Price: 54 Table: 5 Served: 3 Total: 162 Not Served: 0
+8 Kebab Price: 37 Table: 3 Served: 0 Total: 0 Not Served: 1
+9 Fish Patties Price: 21 Table: 5 Served: 1 Total: 21 Not Served: 1
+12 French Fries Price: 16 Table: 3 Served: 1 Total: 16 Not Served: 0
+19 Cola Price: 10 Table: 3 Served: 0 Total: 0 Not Served: 2
+22 Beer Price: 17 Table: 5 Served: 0 Total: 0 Not Served: 1
+Total price: 247
+========== 7. Print Check Table 5 ==========
+Total: 0
+========== 8. Print Check Table 7 ==========
+Total: 0
+========== 9. Print Report ==========
+2 Tomato Salad Price: 24 Table: 3 Served: 2 Total: 48 Not Served: 0
+6 Hamburger Price: 57 Table: 3 Served: 0 Total: 0 Not Served: 1
+7 Salmon Price: 54 Table: 5 Served: 3 Total: 162 Not Served: 3
+8 Kebab Price: 37 Table: 3 Served: 0 Total: 0 Not Served: 1
+9 Fish Patties Price: 21 Table: 5 Served: 1 Total: 21 Not Served: 2
+12 French Fries Price: 16 Table: 3 Served: 1 Total: 16 Not Served: 0
+19 Cola Price: 10 Table: 3 Served: 0 Total: 0 Not Served: 2
+22 Beer Price: 17 Table: 5 Served: 0 Total: 0 Not Served: 1
+Total price: 247
