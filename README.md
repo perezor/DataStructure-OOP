@@ -1,5 +1,5 @@
-# DataStructure & OOP
-Resturant_Orders_Project
+# Resturant_Orders_Managent_Project
+DataStructures & OOP in Java
 
-This project was a final project in "introduction to programing in Java " at second year in the university of Ben-Gurion.
-this project purpose was to assimilate and practice implementation of creating data-structures and OOP in Java.
+This project purpose was to assimilate and practice Object-Oriented Programming(OOP) concepts in Java.
+Using different types of Data-Structures provieds easy accesse and efficient update of data.
